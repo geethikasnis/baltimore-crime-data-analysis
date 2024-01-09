@@ -1,4 +1,5 @@
 **CRIME DATA ANALYSIS IN BALTIMORE CITY**
+
 **ABSTRACT**
 Crime is high in certain cities, and it varies based on the city’s economic status and laws. To analyse various crimes and identify hotspots in the city, crime data analysis is prominent. Crime data analytics help personnel prevent further occurrences. In Baltimore, the city with the highest crime rate, crime data is analysed to provide in-depth insight into locations with the highest crime rates as well as specify the day
 and time where each type of crime profoundly transpired using proposed visualisation tools and an interactive visualisation model. This has been achieved by classifying crimes based on their spatial, or spatial and temporal, aspects.
